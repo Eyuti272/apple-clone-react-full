@@ -1,12 +1,31 @@
-# React + Vite
+# React 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#it's the second one i cloned apple website this i added interactive toggler and droplist
 
-Currently, two official plugins are available:
+# Apple Clone React (Full Version)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a full Apple website clone built using **React.js** and **React Bootstrap**.  
+It mimics the design and layout of the official Apple homepage for practice and educational purposes.
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive design (mobile and desktop)
+- Hero sections for each Apple product
+- Smooth scrolling and animations
+- Modular and reusable React components
+- Styled with React Bootstrap
+
+## 🛠️ Technologies Used
+
+- React.js
+- React Bootstrap
+- Vite (or Create React App)
+- Git & GitHub
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Eyuti272/apple-clone-react-full.git
+cd apple-clone-react-full
+npm install
+npm run dev
